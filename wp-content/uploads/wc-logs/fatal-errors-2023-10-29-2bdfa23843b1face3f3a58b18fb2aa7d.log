@@ -1,0 +1,2 @@
+2023-10-29T18:21:48+00:00 CRITICAL Out of memory (allocated 102760448) (tried to allocate 65536 bytes) in C:\xampp\htdocs\wordpress-6.3.2\wordpress\wp-content\plugins\mailpoet\vendor-prefixed\symfony\validator\ConstraintValidator.php on line 18
+
